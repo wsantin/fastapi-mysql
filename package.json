@@ -1,0 +1,9 @@
+{
+  "name": "backend-demo-fastapi",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "serverless-dotenv-plugin": "^3.9.0",
+    "serverless-python-requirements": "^5.1.1"
+  }
+}
